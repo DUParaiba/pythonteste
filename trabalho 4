@@ -1,0 +1,7 @@
+a =float(input('qual o valor:'))
+b =float(input('outro valor'))
+c = a + b
+n1 = c
+print(type(n1))
+print('A soma entre: {} e {} vale:{}'.format(a, b, c))
+print('sua nota é', n1)
