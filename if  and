@@ -1,0 +1,7 @@
+#eleição
+
+resposta = int(input('qual é a sua idade'))
+if resposta >=18 and resposta
+    print('vc pode votar')
+else:
+    print('vc nao pode votar')
